@@ -10,9 +10,6 @@
   z-index: 2;
 }
 
-
-
-
 p {
     width: 230px;
     height: 250px;
@@ -28,6 +25,7 @@ p {
   body {
     background-image: url(img/test2.png);
     background-size: cover;
+    background-repeat: initial;
   
     margin: 0;
     
@@ -108,6 +106,7 @@ a {
   font-size: 35px;
 }
 
+
 .herb {
   text-align: center;
   color: #fff;
@@ -120,11 +119,16 @@ img {
   object-fit: fill;
 }
 
+.img {
+  width: 200px;
+  height: 200px;
+  object-fit: fill;
+}
+
 
 footer {
   position:absolute;
   bottom:0;
   width:100%;
   height:100px;   /* Height of the footer */
-  background:#6cf;
 }
