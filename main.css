@@ -1,3 +1,18 @@
+.overlay {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0,0,0,0.5);
+  z-index: 2;
+}
+
+
+
+
 p {
     width: 230px;
     height: 250px;
@@ -15,7 +30,8 @@ p {
     background-size: cover;
   
     margin: 0;
-    font-family: "Segoe UI", Arial, Helvetica, Sans Serif;
+    
+    font-family: 'Amatic SC', cursive;
   }
 
   /*
@@ -59,28 +75,56 @@ p {
   }
 }
 
-header {
-  animation: 1s ease-out 0s 1 slideInLeft;
-  background: rgba(17, 119, 214, 0.356);
-  padding: 40px;
+@keyframes slideInDown {
+  0% {
+    transform: translatey(100%);
+  }
+  100% {
+    transform: translatey(0);
+  }
 }
+
+.slideleft {
+  animation: 1s ease-out 0s 1 slideInLeft;
+  background: rgba(35, 83, 128, 0.356);
+  padding: 25px;
+  text-align: center;
+}
+
+.slidedown {
+  animation: 1.5s ease-out 0s 1 slideInDown;
+  background: rgba(35, 83, 128, 0.356);
+  padding: 25px;
+  text-align: center;
+}
+
 
 
 a {
   text-decoration: none;
-  display: inline-block;
-  margin-right: 10px;
+  display:flexbox;
+  margin: 10px;
   color: #fff;
+  font-size: 35px;
 }
 
 .herb {
   text-align: center;
   color: #fff;
-  background-color: #ffffff2a;
+  background-color: #0f2e472a;
 }
 
 img {
   width: 200px;
   height: 200px;
   object-fit: fill;
+}
+
+
+footer {
+  position:absolute;
+  bottom:0;
+  width:100%;
+  height:100px;   /* Height of the footer */
+  background:#6cf;
 }
