@@ -26,6 +26,16 @@ I wanted to create something simple and not too complex. Something that showed o
 
 The design was pretty simple and with this new set of boards ready I got to work piecing the website together.
 
+After setting up a basic page I made some progress and tried out using an animated navigation bar that would slide into the page and have links to the other pages.
+
+![prog1](img/earlypage.gif)
+
+    Herb 23/05/22
+
+Here is how the website is looking so far.
+
+![prog2](img/websiteday4.png)
+
 # Asset list
 
 Most assets I planned to use were photos, designs and personal achievements that I wanted to show.
@@ -55,3 +65,13 @@ Other parts of code have also been lifted from my last project for Unit 13 as it
 Other than the code from W3Schools the only other thing I've taken from an outside source are the badge images from Certiport / Microsoft, all of which I myself had earned by taking their exams.
 
 ![buttons](img/allbuttons.PNG)
+
+    Herb 23/05/22
+
+# Portfolio
+
+- Mos specialist awards (Excel, Word, Powerpoint, Word/Excel Expert)
+- Examples of my photo editing work
+- Tinkercad work
+- possibly artwork
+
