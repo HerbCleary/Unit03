@@ -70,8 +70,23 @@ Other than the code from W3Schools the only other thing I've taken from an outsi
 
 # Portfolio
 
+Here is a quick jumble of ideas in list form that I could use for my portfolio.
+
 - Mos specialist awards (Excel, Word, Powerpoint, Word/Excel Expert)
 - Examples of my photo editing work
 - Tinkercad work
 - possibly artwork
+- (Youtube from that one unit ?)
+- Unit 13's phone website
 
+There's probably more but this is the stuff that seems relevant if I were to pursue a job in IT.
+
+#
+
+    28/05/22 - 07/06/22
+
+
+
+#
+
+FEEDBACK

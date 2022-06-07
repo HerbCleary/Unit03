@@ -201,10 +201,12 @@ a:hover {
 
 
 .box {
-  width: 800px;
+  width: 1000px;
   height: 325px;
   min-height: 300px;
   min-width: 700px;
+  max-width: 1000px;
+  max-height: 325px;
   column-count: 2;
   column-gap: 20px;
   padding: 10px;
@@ -215,6 +217,8 @@ a:hover {
   height: 325px;
   min-height: 300px;
   min-width: 700px;
+  max-width: 1000px;
+  max-height: 325px;
   column-count: 2;
   column-gap: 20px;
   padding: 10px;
