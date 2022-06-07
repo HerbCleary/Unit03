@@ -157,6 +157,12 @@ a {
   min-width: 300px;
 }
 
+.in4 {
+  width: 500px;
+  height: 300px;
+  min-width: 500px;
+  min-height: 300px;
+}
 
 
 .fll {
