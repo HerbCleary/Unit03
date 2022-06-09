@@ -86,29 +86,3 @@ There's probably more but this is the stuff that seems relevant if I were to pur
     28/05/22 - 07/06/22
 
 
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-I know of my failings and know full well that I was never qualified to even attempt this course. Though I thank you for entertaining the thought at least and letting me play the role of jester.
-
-C'est la vie.
