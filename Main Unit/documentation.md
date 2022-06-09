@@ -78,6 +78,7 @@ Here is a quick jumble of ideas in list form that I could use for my portfolio.
 - possibly artwork
 - (Youtube from that one unit ?)
 - Unit 13's phone website
+- Music, Soundcloud (perhaps just talk about music/sound mixing i've learnt)
 
 There's probably more but this is the stuff that seems relevant if I were to pursue a job in IT.
 
